@@ -1,0 +1,18 @@
+
+button{
+border : 0px;
+background-color: transparent;
+}
+button:hover{
+  transition: 1s;
+  font-size: 125%;
+  }
+input:hover{
+   transition: 1s;
+  font-size: 115%;
+}
+input[type="text"]{
+  border-radius: 25px;
+  border: 0.5px solid black;
+  text-align: center; 
+}
